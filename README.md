@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer @ Theodo UK
+Software Engineer @ Theodo UK  
 Interested in serverless and rust

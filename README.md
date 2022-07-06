@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer @ Theodo UK  
+Software Engineer @ Goldman Sachs  
 Interested in serverless, golang and rust
